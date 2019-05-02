@@ -1,0 +1,70 @@
+
+.cir {
+	border-radius: 75px;
+	border-top: 50px #94ba66 solid;
+	border-right: 50px #298fb0 solid;
+	transform: rotate(315deg);
+}
+.base-cir {
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #295074;
+}
+.squ-left {
+	position: relative;
+	z-index: 4;
+	background-color: white;
+	left: 16px;
+	top: -105px;
+	width: 20px;
+	height: 120px;
+	transform: rotate(25deg);
+	border-top-left-radius: 80px;
+	border-top-right-radius: 80px;
+}
+.squ-right {
+	position: relative;
+	z-index: 5;
+	background-color: white;
+	left: 65px;
+	top: -226px;
+	width: 20px;
+	height: 120px;
+	transform: rotate(155deg);
+}
+.squ-bottom {
+	position: relative;
+	z-index: 6;
+	background-color: white;
+	left: 20px;
+	top: -283px;
+	width: 60px;
+	height: 20px;
+}
+.middle {
+	position: relative;
+	z-index: 3;
+	background-color: #f27324;
+	left: 33px;
+	top: -340px;
+	width: 35px;
+	height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
